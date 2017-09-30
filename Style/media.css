@@ -1,0 +1,692 @@
+@media screen  and (min-width: 1200px ) {
+
+.circle{
+    width: 48%;
+}
+
+.fourCircles{
+    width: 90%;
+    margin: 0 auto;
+}
+.takeLook{
+    width: 90%;
+    margin: 0 auto;
+}
+.services{
+    width: 48%;
+}
+.lorem{
+    width: 80%;
+}
+.image{
+    width: 22%;
+}
+.photos{
+    width: 98%;
+    margin: 0 auto;
+}
+.menuBorder{
+    width: 85%;
+}
+.centre{
+    width: 85%;
+}
+.aboutUs{
+    width: 17%;
+}
+.computerDiv{
+    width: 90%;
+}
+.threePoints{
+    display: none;
+}
+.welcome {
+    width: 30%;
+    margin: 0 auto;
+}
+.grid{
+    width: 60%;
+}
+.downIcon{
+    display: none;
+}
+}
+@media screen and (max-width: 1199px) and (min-width: 992px ) {
+.centre{
+    width: 80%;
+    margin-top: 100px;
+}
+.computerDiv{
+    display:flex;
+    width: 100%;
+}
+.compImage{
+    margin: 10%;
+    width: 65%;
+}
+.someTexts{
+    width: 90%;
+    margin: 0 auto
+}
+.someWords{
+    float: none;
+    width: 55%; 
+}
+.someAbout{
+    width: 55%;
+    margin: 0 auto;
+}
+.allMeet{
+    margin: 0 auto;
+    width: 30%;
+}
+.aboutUs{
+    display: none;
+}
+.aboutPara{
+    width: 90%;
+    margin: 0 auto;
+}
+.line1{
+    width: 25%;
+    margin: 0 auto;
+}
+.circle{
+    margin-top: 30px;
+    width: 50%;
+}
+.welcome{
+    width: 300px;
+}
+.clients2{
+    width: 32%;
+}
+.threePoints{
+    display: none;
+}
+.fourCircles{
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+}
+.twoPixs{
+    padding-left: 0;
+    width: 90%px;
+    margin: 0 auto;
+}
+.ovals{
+    width: 80%;
+}
+.services {
+    padding-left: 0px;
+    width: 50%;
+}
+.lorem {
+    width: 80%;
+    }
+.appFour{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+}
+.image {
+    width: 24.5%;
+    padding:0;
+    height: 190px;
+}
+.sec4{
+    height: 800px;
+}
+.takeLook{
+    display: grid;
+}
+.menuBorder {
+    padding: 70px 45px 20px 0;
+    width: 790px;
+}
+.leftAndRight{
+    width: 80%;
+    margin: 0 auto;
+}
+.sec6{
+    height: 900px;
+}
+.dean{
+    width: 24%;
+}
+.lorem1{
+        width: 80%px;
+        margin: 0 auto;
+}
+.allRights {
+   display: none;
+}
+.imageText{
+    width: 80%;
+}
+.bottomIcons{
+    width: 30%;
+    margin: 0 auto;
+}
+.downIcon{
+    display: none;
+}
+.emptyDiv2{
+    display: none;
+}
+.sec3{
+    height: 660px;
+}
+.sec8 {
+    height: 715px;
+}
+}
+
+@media screen  and (max-width: 991px) and (min-width: 768px ) {
+.rightMenu {
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+}
+.aboutPara{
+    width: 100%;
+}
+.leftMenu {
+    width: 15%;
+    margin: 0 auto;
+}
+.sec6 {
+    height: 950px;
+}
+.dean{
+    width: 25%;
+    margin: 0 auto;
+}
+.compImage{
+    display: none;
+}
+.aboutUs{
+    width: 27%;
+    margin: 0 auto;
+}
+.computerDiv {
+    width: 90%;
+    margin: 0 auto;
+}
+.leftAndRight {
+    width: 100%;
+    display: grid;
+}
+.downIcon{
+    display: none;
+}
+.aboutPara {
+    width: 100%;
+}
+.someWords{
+    width: 80%;
+}
+.fourCircles{
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+}
+.allRights{
+    display: none;
+}
+.filter {
+    display: none;}
+.circle{
+    width: 49%;
+}
+.bottomIcons {
+    float: none;
+    display: flex;
+    width: 20%;
+    margin: 0 auto;
+}
+.allRights{
+    display: none;
+}
+.fourFilters {
+    width: 75%;
+    margin: 0 auto;
+}
+.photos{
+        width: 95%;
+    margin: 0 auto;
+}
+
+.image{
+    width: 20%;
+}
+.ovals{
+    width: 80%;
+}
+.appFour{
+    width: 80%;
+    margin: 0 auto;
+}
+.sec4{
+    height: 730px;
+}
+.sec3{
+    height: 600px;
+}
+.services{
+    padding: 0;
+    width: 49%;
+}
+.imageText{
+    width: 80%;
+}
+
+.sec8 {
+    height: 840px;
+}
+.inputs{
+    width: 80%;
+    margin: 0 auto;
+}
+.bigMassage{
+    display: grid;
+}
+.sendDiv {
+    width: 26%;}
+.sec8 {
+    height: 790px;
+}
+.largeInput{
+    width: 80%;
+    margin: 0 auto;
+}
+.NameAndEmail{
+    width: 80%;
+    margin: 0 auto;
+}
+.takeLook {
+    display: grid;
+    margin-top: 35px;
+}
+.lorem{
+    width: 80%;
+    margin: 0 auto;
+}
+.inputName{
+    float: none;
+}
+.take1{
+    width: 33%;
+    margin: 0 auto;
+}
+.clients2{
+    width: 33%;
+    margin: 0 auto;
+}
+.inputEmail{
+    float: none;
+}
+
+.threePoints{
+    display: none;
+}
+.twoPixs{
+    width: 95%;
+    margin: 0 auto;
+}
+}
+@media screen and (max-width: 767px) and (min-width: 480px ) {
+
+.rightMenu {
+    width: 80%;
+    display: grid;
+    margin: 0 auto;
+}
+.aboutPara{
+    width: 100%;
+}
+.leftMenu {
+    width: 88%;
+    margin: 0 auto;
+}
+.take1{
+    width: 30%;
+    text-align: center;
+}
+.sec6 {
+    height: 780px;
+}
+.compImage{
+    display: none;
+}
+.aboutUs{
+    width: 27%;
+    margin: 0 auto;
+}
+.computerDiv {
+    width: 90%;
+    margin: 0 auto;
+}
+.leftAndRight {
+    width: 90%;
+    display: grid;
+}
+.downIcon{
+    display: none;
+}
+.aboutPara {
+    width: 100%;
+}
+.someWords{
+    width: 80%;
+}
+.fourCircles{
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+}
+.allRights{
+    display: none;
+}
+.filter {
+    display: none;}
+.circle{
+    width: 49%;
+}
+.bottomIcons {
+    float: none;
+    display: flex;
+    width: 20%;
+    margin: 0 auto;
+}
+.allRights{
+    display: none;
+}
+.fourFilters {
+    width: 90%;
+    margin: 0 auto;
+}
+.photos{
+        width: 95%;
+    margin: 0 auto;
+}
+
+.image{
+    width: 18%;
+}
+.ovals{
+    width: 80%;
+}
+.appFour{
+    width: 80%;
+    margin: 0 auto;
+}
+.sec4{
+    height: 730px;
+}
+.sec3{
+    height: 600px;
+}
+.services{
+    padding: 0;
+    width: 49%;
+}
+.imageText{
+    width: 80%;
+}
+.inputsFullDiv {
+    width: 80%;
+    margin: 0 auto;
+}
+.sec8 {
+    height: 870px;
+}
+.inputs{
+    width: 80%;
+    margin: 0 auto;
+}
+.bigMassage{
+    display: grid;
+}
+.sendDiv {
+    width: 26%;}
+
+.largeInput{
+    width: 80%;
+    margin: 0 auto;
+}
+.NameAndEmail{
+    width: 80%;
+    margin: 0 auto;
+}
+.menu{
+    font-size: 20px;
+}
+.brends {
+    width: 80%;
+    text-align: center;}
+.takeLook {
+    display: grid;
+    margin-top: 35px;
+}
+.lorem{
+    width: 80%;
+    margin: 0 auto;
+}
+.inputName{
+    float: none;
+}
+.inputEmail{
+    float: none;
+}
+
+.threePoints{
+    display: none;
+}
+.clients2{
+    text-align: center;
+}
+
+.grid{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+.welcome{
+    width: 45%;
+}
+.twoPixs{
+    width: 95%;
+    margin: 0 auto;
+}
+.sec4 {
+    height: 790px;
+}
+}
+@media screen and (max-width: 479px) and (min-width: 320px ) {
+
+.rightMenu {
+    width: 80%;
+    display: grid;
+    margin: 0 auto;
+}
+.aboutPara{
+    width: 100%;
+}
+.leftMenu {
+    width: 88%;
+    margin: 0 auto;
+}
+.take1{
+    width: 30%;
+    text-align: center;
+}
+.aboutSpan{
+    padding: 0;
+}
+.sec6 {
+    height: 780px;
+}
+.compImage{
+    display: none;
+}
+.aboutUs{
+    text-align: center;
+    width: 27%;
+    margin: 0 auto;
+}
+.computerDiv {
+    width: 90%;
+    margin: 0 auto;
+}
+.leftAndRight {
+    width: 90%;
+    display: grid;
+}
+.downIcon{
+    display: none;
+}
+.aboutPara {
+    width: 100%;
+}
+.someWords{
+    width: 80%;
+}
+.fourCircles{
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+}
+.allRights{
+    display: none;
+}
+.filter {
+    display: none;}
+.circle{
+    width: 90%;
+}
+.bottomIcons {
+    float: none;
+    display: flex;
+    width: 20%;
+    margin: 0 auto;
+}
+.allRights{
+    display: none;
+}
+.fourFilters {
+    width: 90%;
+    margin: 0 auto;
+}
+.photos{
+        width: 95%;
+    margin: 0 auto;
+}
+
+.image{
+    width: 18%;
+}
+.ovals{
+    width: 80%;
+}
+.appFour{
+    display: grid;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.sec3{
+    height: 1500px;
+}
+.services{
+    padding: 0;
+    width: 49%;
+}
+.imageText{
+    width: 80%;
+}
+.inputsFullDiv {
+    width: 80%;
+    margin: 0 auto;
+}
+.sec8 {
+    height: 900px;
+}
+.names{
+    text-align: center;
+}
+.inputs{
+    width: 80%;
+    margin: 0 auto;
+}
+.bigMassage{
+    display: grid;
+}
+.sendDiv {
+    width: 26%;}
+
+.largeInput{
+    width: 80%;
+    margin: 0 auto;
+}
+.NameAndEmail{
+    width: 80%;
+    margin: 0 auto;
+}
+.menu{
+    font-size: 20px;
+}
+.brends {
+    width: 80%;
+    text-align: center;}
+.takeLook {
+    display: grid;
+    margin-top: 35px;
+}
+.lorem{
+    width: 80%;
+    margin: 0 auto;
+}
+.inputName{
+    float: none;
+}
+.inputEmail{
+    float: none;
+}
+
+.threePoints{
+    display: none;
+}
+.clients2{
+    text-align: center;
+}
+.sec2{
+    height: 755px;
+}
+.grid{
+
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+.welcome {
+    text-align: center;
+    width: 45%;
+}
+.twoPixs{
+    display: grid;
+    width: 50%;
+    margin: 0 auto;
+}
+.sec4 {
+    height: 1730px;
+}
+.take{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+.submitButton{
+    display: none;
+}
+}

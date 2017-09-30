@@ -1,0 +1,483 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.section1_Div{
+	padding-top: 10px;
+	display: grid;
+}
+.sec1{
+	height: 500px;
+	background: black;
+}
+.section1_Div , .section2_Div, .section4_Div , .section3_Div,.section5_Div , .section6_Div,.section7_Div , .section8_Div,.section9_Div {
+	width: 100%;
+	margin: 0 auto;
+} 
+.section2_Div , .section3_Div{
+	display: grid;
+}
+.sec2{
+	height: 500px;
+	background: white;
+}
+.sec3{
+	height: 500px;
+	background: black;
+}
+.sec4{
+	height: 600px;
+	background: white;
+}
+.sec5{
+	height: 400px;
+	background: black;
+}
+.sec6{
+ 	height: 1350px;
+ 	background: white;
+ }
+ .sec7{
+ 	height: 500px;
+ 	background: black;	
+ }
+ .sec8{
+ 	height: 620px;
+ 	background: white;
+ }
+ .sec9{
+ 	height: 60px;
+ 	background: black;
+}
+.menu{
+	text-shadow:  2px 3px 5px white;
+	font-family: 'firstFont';
+	font-weight: bold;
+	margin: 10px;
+	text-decoration: none;
+	color: white;
+}
+.leftMenu{
+	float: left;
+}
+.filter{
+	float: left;
+}
+.inputName{
+	float: left; 
+	display: grid;
+}
+.inputEmail{
+	float: right;
+	 display: grid;
+}
+.rightMenu{
+	display: flex;
+	float: right;
+}
+.fourFilters{
+	float: right;
+}
+.centre{
+	width: 100%;
+	opacity: 0.8;
+	color: white;
+	font-family: 'firstFont';
+	font-size:25px;
+}
+.downIcon{
+	padding-top: 100px;
+	width: 100px;
+    margin: 0 auto;
+}
+.aboutUs{
+	text-shadow: 3px 3px 10px #241f1f;
+	padding-top: 20px;
+	font-family: 'secondFont';
+	margin: 0 auto;
+	width: 18%;
+	height: 50px;
+	border-bottom: 1px solid black;
+}
+.leftAndRight{
+	width: 90%;
+	margin: 0 auto;
+}
+.computerDiv{
+	width: 900px;
+    margin: 0 auto;
+}
+.compImage{
+	width: 400px;
+	height: 300px;
+}
+.someWords{
+	display: grid;
+	width: 45%;
+	float: right;
+}
+.aboutPara{
+	width: 350px;
+    margin: 15px 0;
+    opacity: 0.8;
+    font-family: 'firstFont';
+}
+.meet{
+	font-family: 'firstFont';
+	color: white;
+	font-size: 30px;
+	width: 220px;
+	margin: 0 auto;
+	padding: 10px 0;
+}
+.fourCircles{
+	display: flex;
+}
+.circle{
+	padding-left: 5px;
+	width: 310px;
+	color: white;
+	display: grid;
+}
+.threePoints{
+	width: 30px;
+	margin:0 auto;
+}
+.twoPixs{
+	display: flex;
+}
+.welcome{
+	width: 300px;
+	margin: 0 auto;
+}
+.rightMenu{
+	display: flex;
+	float: right;
+}
+.emptyDiv{
+	margin-top: 5px;
+    width: 37px;
+    height: 2px;
+    background: #FCAC45;
+    margin-left: 13px;
+}
+.orangeSpans{
+	color: #FCAC45;
+}
+.grid{
+	font-size: 18px;
+	width: 600px;
+	margin: 0 auto;
+}
+.boldSpans{
+	font-weight: bold;
+	text-shadow: 2px 3px 5px white;
+}
+.aboutSpan{
+	padding-left:50px;
+}
+.line1{
+	opacity: 0.5;
+    padding: 5px 0;
+}
+.emptyDiv2{
+	width: 55px;
+    height: 2px;
+    background: #FCAC45;
+}
+.someAbout{
+	font-size: 20px;
+    opacity: 0.8;
+    margin: 2px 0;
+}
+@font-face{
+	font-family: 'firstFont';
+	src: url('../fonts/EncodeSansSemiCondensed-Light.ttf');
+}
+@font-face{
+	font-family: 'secondFont';
+	src: url('../fonts/ArchivoBlack-Regular.ttf');
+}
+@font-face{
+	font-family: 'thirdFont';
+	src: url('../fonts/ArchivoBlack-Regular.ttf');
+}
+@font-face{
+	font-family: 'forthFont';
+	src: url('../fonts/CreteRound-Italic.ttf');
+
+}
+@font-face{
+	font-family: 'fifthFont';
+	src: url('../fonts/CinzelDecorative-Regular.ttf');
+}
+.radioText{
+	opacity: 0.7;
+	font-family: 'thirdFont';
+    padding: 0 5px 0 0;
+}
+.italicFont{
+	font-family: 'forthFont';
+	opacity: 0.7;
+}
+.browse{
+	padding: 10px;
+	border:1px solid black;
+	opacity: 0.7;
+	border-radius: 5px;
+	width: 210px;
+	text-decoration: none;
+	color: black;
+	height: 50px;
+}
+.submitButton{
+	margin-top: 50px;
+    opacity: 0.7;
+    font-family: 'thirdFont';
+}
+.shadowDiv1{
+	margin: 0 auto;
+	width: 5%;
+	height: 2px;
+  background: #FCAC45;
+}
+.shadowDiv2{
+	margin: 0 auto;
+	width: 3%;
+	height: 2px;
+	background: #FCAC45;
+    margin-top: 5px;
+}
+.fourCircles{
+	width: 1300px;
+	margin:0 auto;
+	display: flex;
+	padding-top: 30px;
+}
+.imageCentre{
+	text-decoration: none;
+	text-align: center;
+    margin: 0 auto;
+    opacity: 0.8;
+    padding: 5px 0;
+}
+.names{
+	text-decoration: none;
+    color: white;
+    font-family: 'thirdFont';
+    margin: 0 auto;
+}
+.centre{
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+.threePoints{
+	width: 30px;
+	margin:0 auto;
+}
+.take{
+	font-family: 'firstFont';
+	color: black;
+	font-size: 30px;
+	width: 400px;
+	margin: 0 auto;
+	padding:50px 0 5px 0;
+	text-shadow: 5px 5px 10px black;
+}
+.lorem{
+	text-align: center;
+	margin: 0 auto;
+    width: 1260px;
+    margin-top: 25px;
+    opacity: 0.7;
+}
+.services{
+	padding-left: 5px;
+	width: 315px;
+	color: black;
+	display: grid;
+}
+.appFour{
+	display: flex;
+}
+.takeLook{
+	display: flex;
+	margin-top: 100px;
+}
+.icons{
+	color: black;
+}
+.clients{
+    color: white;
+    font-family: 'firstFont';
+    font-size: 25px;
+    width: 243px;
+    margin: 0 auto;
+    padding: 50px 0 5px 0;
+    text-shadow: 5px 5px 10px white;
+}
+.brends{
+	width: 600px;
+    color: white;
+    font-size: 25px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+#chanel{
+	margin-right:  10px;
+	font-family: 'firstFont';
+}
+#zara{
+  font-family: 'fifthFont';
+  margin-right:  10px;
+}
+#guerline{
+	font-family: 'firstFont';
+    margin-right:  10px;
+}
+#lancome{
+ 	font-family: 'secondFont';
+ 	opacity: 0.7;
+    margin-right:  10px;
+ }
+.take1{
+ 	font-family: 'firstFont';
+    color: black;
+    font-size: 28px;
+    width: 26%;
+    margin: 0 auto;
+    padding: 50px 0 5px 0;
+    text-shadow: 5px 5px 10px black;
+ }
+ .linkFilter{
+ 	text-decoration: none;
+ 	color: black;
+ }
+ .border{
+ 	border-left: 1px solid black;
+ 	opacity: 0.8;
+ 	padding-left: 10px;
+ }
+ .menuBorder{
+ 	padding: 70px 0 20px 0;
+ 	width: 93%;
+ 	margin: 0 auto;	
+ }
+ .image{
+ 	padding: 10px;
+ }
+ .pics{
+ 	width: 96%;
+ 	margin: 0 auto;
+ }
+ .bottomIcons{
+ 	display: flex; 
+ 	float: right;
+ 	width: 20%;
+ }
+ .clients2{
+ 	color: white;
+    font-family: 'firstFont';
+    font-size: 25px;
+    width:27%;
+    margin: 0 auto;
+    padding: 50px 0 5px 0;
+    text-shadow: 5px 5px 10px white;
+ }
+ .dean{
+ 	padding-top: 30px;
+    font-family: 'forthFont';
+    color: white;
+    margin: 0 auto;
+    width: 20%;
+    opacity: 0.4;
+    text-shadow: 5px 3px 5px;
+ }
+ .lorem1{
+ 	padding-top: 100px;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    width: 90%;
+    opacity: 0.7;
+ }
+ .inputsFullDiv{
+ 	width: 700px;
+ 	margin: 0 auto;
+ 	padding-top: 50px;
+ }
+ .inputs{
+    padding: 5px;
+    width: 300px;
+    height: 30px;
+    border: 1px solid #dbdbe8;
+    border-radius: 3px;
+}
+.starr{
+	color: #d93f3f;
+}
+.footerIcons{
+	padding: 5px;
+	color: white;
+}
+.allRights{
+	color: white;
+    width: 50%;
+    float: left;
+    padding: 15px;
+    opacity: 0.7;
+}
+.largeInput{
+	margin: 0 auto;
+	height: 220px;
+	width: 700px;
+	border: 1px solid #dbdbe8;
+    border-radius: 3px;
+}
+.send{
+    padding: 5px 35px;
+    text-decoration: none;
+    background: #FCAC45;
+    border-radius: 7px;
+    border: 1px solid;
+    color: white;
+}
+.sendDiv{
+	width: 14%;
+	float: right;
+	margin: 40px 10px 0 10px;
+}
+.send:hover{
+	background:#272822;
+	opacity: 0.5;
+	transition: 1s;
+}
+.menu:hover{
+	color: #AFB2B5;
+	opacity: 0.7;
+	transition: 1s;
+}
+.names:hover , .icons:hover{
+	color: #FCAC45;
+}
+#chanel:hover,#lancome:hover, #lacoste:hover, #zara:hover, #guerline:hover{
+	transition: 2s;
+	cursor: pointer;
+	color: gray;
+}
+.browse:hover{
+	color: white;
+	background: #464040;
+	position: 2s;
+}
+
+ .linkFilter:hover{
+ 	text-decoration: underline;
+ 	color: #FCAC45;
+ 	transition: 1s;
+ }
+ .image:hover{
+ 	opacity: 0.3;
+ 	transition: 1s;
+ }
